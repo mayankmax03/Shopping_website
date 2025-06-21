@@ -1,1 +1,1 @@
-# Shopp
+# Shopping website
